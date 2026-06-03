@@ -24773,7 +24773,7 @@ pJ:function pJ(a){this.a=a},
 are(){var s=0,r=A.N(t.d),q,p,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$are=A.J(function(a,b){if(a===1)return A.K(b,r)
 for(;;)switch(s){case 0:s=3
-return A.G(A.ara(A.eE("https://api.allorigins.win/raw?url=https://jbch.org/ko/mission/?cId=451")),$async$are)
+return A.G(A.ara(A.eE("https://api.cors.lol/?url=https://jbch.org/ko/mission/?cId=451")),$async$are)
 case 3:d=b
 if(d.b!==200){q=A.u(t.N,t.z)
 s=1
@@ -25597,7 +25597,7 @@ return A.M($async$arb,r)},
 arc(a){var s=0,r=A.N(t.N),q,p,o,n,m
 var $async$arc=A.J(function(b,c){if(b===1)return A.K(c,r)
 for(;;)switch(s){case 0:s=3
-return A.G(A.ara(A.eE("https://api.allorigins.win/raw?url="+("https://church.jbch.org/guide/about.php?flag=1&chId="+a))),$async$arc)
+return A.G(A.ara(A.eE("https://api.cors.lol/?url="+("https://church.jbch.org/guide/about.php?flag=1&chId="+a))),$async$arc)
 case 3:m=c
 if(m.b!==200){q=""
 s=1
@@ -82298,7 +82298,7 @@ $1(a){var s,r,q,p,o,n=null,m=new A.dj().dY(a,A.ep("div[class='coverImg']"))
 if(m==null)s=n
 else{m=m.b.i(0,"style")
 s=m==null?n:A.e(m.split("'"),t.s)}r=s!=null&&s.length===3?"https://jbch.org"+s[1]:n
-if(r!=null)r="https://api.allorigins.win/raw?url="+r
+if(r!=null)r="https://api.cors.lol/?url="+r
 m=new A.dj().dY(a,A.ep("h6[class='mt-10 mb-0 pr-20']"))
 q=m==null?n:A.vf(m)
 m=new A.dj().dY(a,A.ep("font[class='h6 text-danger fw600']"))
