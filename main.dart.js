@@ -27361,7 +27361,7 @@ for(q=0;q<r;++q)A.av9(s[q],b,c,d,e,f)}else throw A.j(A.c6("Unknown Geometry Type
 awd(){var s=0,r=A.C(t._),q,p
 var $async$awd=A.y(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:s=3
-return A.x(A.awc(A.es("https://api.jbch.org/ex/church_info.php?dev_name=river&tokenId=J022KDFJBNVBNKIQIEIR98384UGHUGYU3UDHHJAAJDHUJLASD8&maxX=180&maxY=90&minX=-180&minY=-90&oversea=2",0,null)),$async$awd)
+return A.x(A.awc(A.es("https://api.jbch.org/ex/church_info.php?dev_name=worldmission_board&tokenId=BO6SH034QOILH97BYPCG0B79YQWXSDG7ECTA78P974AHDQB9FS&maxX=180&maxY=90&minX=-180&minY=-90&oversea=2",0,null)),$async$awd)
 case 3:p=b
 if(p.b!==200){q=[]
 s=1
@@ -27391,7 +27391,7 @@ return A.B($async$awe,r)},
 awf(){var s=0,r=A.C(t._),q,p
 var $async$awf=A.y(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:s=3
-return A.x(A.awc(A.es("https://api.jbch.org/ex/church_info.php?dev_name=river&tokenId=J022KDFJBNVBNKIQIEIR98384UGHUGYU3UDHHJAAJDHUJLASD8&maxX=132.54697917333905&maxY=38.93398114581783&minX=122.40956894538692&minY=32.568046557380235&oversea=1",0,null)),$async$awf)
+return A.x(A.awc(A.es("https://api.jbch.org/ex/church_info.php?dev_name=worldmission_board&tokenId=BO6SH034QOILH97BYPCG0B79YQWXSDG7ECTA78P974AHDQB9FS&maxX=132.54697917333905&maxY=38.93398114581783&minX=122.40956894538692&minY=32.568046557380235&oversea=1",0,null)),$async$awf)
 case 3:p=b
 if(p.b!==200){q=[]
 s=1
